@@ -32,7 +32,7 @@ solution, deliver clean. No jargon, just results.
 
 ### 📫 Reach me
 
-- 📞 Le Répondeur Romand — **[repondeur-romand.ch](https://repondeur-romand.ch)**
-- 📧 Email — **adamgruberbusiness@gmail.com**
-- 💼 LinkedIn — **[adam-gruber](https://www.linkedin.com/in/adam-gruber-50a71b2b7/)**
-- 📸 Instagram — **[@krt.biz](https://www.instagram.com/krt.biz/)**
+- 📞 Le Répondeur Romand: **[repondeur-romand.ch](https://repondeur-romand.ch)**
+- 📧 Email: **adamgruberbusiness@gmail.com**
+- 💼 LinkedIn: **[adam-gruber](https://www.linkedin.com/in/adam-gruber-50a71b2b7/)**
+- 📸 Instagram: **[@krt.biz](https://www.instagram.com/krt.biz/)**
