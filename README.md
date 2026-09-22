@@ -1,23 +1,28 @@
 <h1 align="center">Hi 👋, I'm Adam Gruber</h1>
-<h3 align="center">Engineer &amp; developer. I solve problems. Websites. Software. Data.</h3>
+<h3 align="center">Engineer &amp; developer, co-founder of Le Répondeur Romand</h3>
 
 <p align="center">
-  Clear, fast solutions for professionals: websites, automation, data and troubleshooting.<br/>
-  One point of contact for all your technical needs. Based in Yverdon-les-Bains, Switzerland 🇨🇭
+  An AI phone assistant for businesses in French-speaking Switzerland.<br/>
+  Based in Yverdon-les-Bains, Switzerland 🇨🇭
 </p>
 
 <p align="center">
-  <a href="https://adamgruber.ch" target="_blank"><b>🌐 adamgruber.ch</b></a>
+  <a href="https://repondeur-romand.ch" target="_blank"><b>📞 repondeur-romand.ch</b></a>
 </p>
 
 ---
 
-### 🛠️ What I do
+### 📞 Le Répondeur Romand
 
-- **Websites** — modern, fast, built to convert
-- **Software &amp; automation** — I automate your repetitive tasks to save you time
-- **Data &amp; analytics** — raw data turned into clear, usable dashboards
-- **Troubleshooting &amp; consulting** — a bug, a breakdown? I diagnose and fix it
+An AI phone assistant that picks up when you can't. Built for businesses that miss calls:
+construction sites, restaurants, garages, property managers, medical and law offices.
+
+- **Answers the call**: announces the business, asks the caller the right questions and follows up when the answer is vague
+- **Sends a summary by e-mail**: the request, the number to call back, the transcript and the recording
+- **One-click reply**: the business confirms or declines, and the caller automatically gets an SMS in the business's name
+- **No new number**: the business's calls are simply forwarded to the assistant
+
+Built and run by two friends, Esteban Giorgis and me, in Yverdon-les-Bains.
 
 ### 👨‍💻 About
 
@@ -27,7 +32,7 @@ solution, deliver clean. No jargon, just results.
 
 ### 📫 Reach me
 
-- 🌐 Website — **[adamgruber.ch](https://adamgruber.ch)**
+- 📞 Le Répondeur Romand — **[repondeur-romand.ch](https://repondeur-romand.ch)**
 - 📧 Email — **adamgruberbusiness@gmail.com**
 - 💼 LinkedIn — **[adam-gruber](https://www.linkedin.com/in/adam-gruber-50a71b2b7/)**
 - 📸 Instagram — **[@krt.biz](https://www.instagram.com/krt.biz/)**
