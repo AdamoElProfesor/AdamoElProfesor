@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Adam Gruber</h1>
 
 <p align="center">
-  <a href="https://github.com/AdamoElProfesor">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Data+engineering+student+%40+HEIG-VD;Turning+messy+data+into+useful+products;Co-founder+of+Le+R%C3%A9pondeur+Romand" alt="Typing intro" />
-  </a>
-</p>
-
-<p align="center">
   Final-year data engineering student at <b>HEIG-VD</b>, based in Switzerland 🇨🇭
 </p>
 
