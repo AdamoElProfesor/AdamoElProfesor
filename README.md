@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  Email: <b>adamgruberbusiness@gmail.com</b> · LinkedIn: <a href="https://www.linkedin.com/in/adam-gruber-50a71b2b7/"><b>adam-gruber</b></a>
+  📧 <b>Email</b>: adamgruberbusiness@gmail.com<br />
+  💼 <b>LinkedIn</b>: <a href="https://www.linkedin.com/in/adam-gruber-50a71b2b7/">adam-gruber</a>
 </p>
 
 ---
